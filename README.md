@@ -39,6 +39,11 @@ Azure Health Bot URL : https://thankful-beach-02b70b900.2.azurestaticapps.net/he
 ![Screenshot (25)](https://user-images.githubusercontent.com/111052429/214823014-3cd7874b-be54-41a4-8a3b-785e5a0c8c8c.png)
 ![Screenshot (26)](https://user-images.githubusercontent.com/111052429/214823522-c7516d6a-e7b9-40b5-a188-bfe09c6c4a93.png)
 ![Screenshot (28)](https://user-images.githubusercontent.com/111052429/214823568-e689e8f6-154b-4621-9b62-1b011190ae43.png)
+### SHORT CODES-
+**Font icons -
+![Screenshot (33)](https://user-images.githubusercontent.com/111052429/214828782-49af6243-7311-4665-aba3-80b83e978594.png)
+**Typography - 
+![Screenshot (34)](https://user-images.githubusercontent.com/111052429/214828798-46b7791e-e223-4921-9aff-89a881f2896f.png)
 ### Gallery -
 ![Screenshot (29)](https://user-images.githubusercontent.com/111052429/214820490-b2fc087a-e195-4b6f-9f83-e1897af60c50.png)
 ### Contact us -
