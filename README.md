@@ -3,7 +3,7 @@
 
 Project Title : HAIR SALON
 
-***This is a web application related to hair styling.
+***This is a web application related to hair services.
 
 Web Technologies used: HTML, CSS, JS.
 
@@ -25,7 +25,7 @@ Azure Health Bot URL : https://thankful-beach-02b70b900.2.azurestaticapps.net/he
 
 ## PROJECT LINK : https://thankful-beach-02b70b900.2.azurestaticapps.net
 
-## PROJECT VIDEO URL:
+## PROJECT VIDEO URL:https://drive.google.com/drive/folders/1yN_VDjhKuqwJwTKLPtpG-Beq4qETHRve?usp=sharing
 
 ## SCREENSHOTS -
 ### Home -
