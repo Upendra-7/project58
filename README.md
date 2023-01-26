@@ -23,11 +23,11 @@ Static Web App URL : https://thankful-beach-02b70b900.2.azurestaticapps.net
 
 Azure Health Bot URL : https://thankful-beach-02b70b900.2.azurestaticapps.net/healthbot.html
 
-##PROJECT-DEMO VIDEO URL:https://youtu.be/gXUxwltibUE
+## PROJECT LINK : https://thankful-beach-02b70b900.2.azurestaticapps.net
 
-## MY WEBSITE LINK IS : https://thankful-beach-02b70b900.2.azurestaticapps.net
+## PROJECT VIDEO URL:
 
-## Screenshots -
+## SCREENSHOTS -
 ### Home -
 ![Screenshot (16)](https://user-images.githubusercontent.com/111052429/214820250-c6bdab13-2aff-487d-8c17-2deb072a5f8d.png)
 ![Screenshot (17)](https://user-images.githubusercontent.com/111052429/214820290-e9b219d0-8145-4e4f-8a2b-b2acd0578e85.png)
