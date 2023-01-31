@@ -25,7 +25,7 @@ Primary Azure Technology      :  Static Web Apps, Azure Health Bot.
 
 ## PROJECT LINK : https://thankful-beach-02b70b900.2.azurestaticapps.net
 
-## PROJECT VIDEO URL:https://drive.google.com/drive/folders/1yN_VDjhKuqwJwTKLPtpG-Beq4qETHRve?usp=sharing
+## PROJECT VIDEO URL:https://drive.google.com/file/d/1zMw-8BOWwymAHO0J2oJ0lo22REqnFlN1/view?usp=share_link
 
 ## SCREENSHOTS -
 ### Home -
