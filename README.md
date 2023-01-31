@@ -19,9 +19,9 @@ Project Description :  My project is about hair salon. I had listed different co
 
 Primary Azure Technology      :  Static Web Apps, Azure Health Bot.
 
-Static Web App URL : https://thankful-beach-02b70b900.2.azurestaticapps.net
+## STATIC WEB APPS URL : https://thankful-beach-02b70b900.2.azurestaticapps.net
 
-Azure Health Bot URL : https://thankful-beach-02b70b900.2.azurestaticapps.net/healthbot.html
+## AZURE HEALTH BOT URL : https://thankful-beach-02b70b900.2.azurestaticapps.net/healthbot.html
 
 ## PROJECT LINK : https://thankful-beach-02b70b900.2.azurestaticapps.net
 
