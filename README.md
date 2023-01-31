@@ -51,4 +51,5 @@ Primary Azure Technology      :  Static Web Apps, Azure Health Bot.
 ![Screenshot (31)](https://user-images.githubusercontent.com/111052429/214821077-462ec878-87af-440c-8c9e-a884cf6a506f.png)
 ### health bot -
 ![Screenshot (32)](https://user-images.githubusercontent.com/111052429/214822820-f1589afe-6a84-4fd5-969f-6b52a226ddb9.png)
-![Screenshot (35)](https://user-images.githubusercontent.com/111052429/215755902-149e5c06-b052-41e8-8ebd-2666aa03d02d.png)
+![Screenshot (35)](https://user-images.githubusercontent.com/111052429/215756311-e571f1a0-0629-4ee3-ab5b-14fce2fbcc79.png)
+
